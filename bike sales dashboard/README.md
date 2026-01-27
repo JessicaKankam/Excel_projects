@@ -37,6 +37,6 @@ Interactive slicers allow users to filter results dynamically.
 ---
 
 ## Files
-- `raw_dataset_bike sales.xlsx` — original dataset
-- `dashboard_bike_sales.xlsx` — cleaned data and interactive dashboard
+- [raw dataset bike_sales](raw_dataset_bike_sales.xlsx)
+- [cleaned data and interactive dashboard](cleaned_dataset_bike_sales)
 
