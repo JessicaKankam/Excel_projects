@@ -13,6 +13,10 @@ An Excel-based financial analysis project building an integrated **Income Statem
 
 ---
 
+## Model Demo
+- ![Model Glance](assets/demo.gif)
+
+---
+
 ## File
 - [Three-Statement Financial Model](3-Statement_Financial_Model_Data.xlsx)
-
