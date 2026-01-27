@@ -16,7 +16,7 @@ The raw dataset was cleaned and standardized in Excel, including:
 ---
 
 ## Dashboard Demo
-- ![Glance through the Model](Demo.gif)
+- ![Dashboard Demo](Demo.gif)
 
 ---
 
