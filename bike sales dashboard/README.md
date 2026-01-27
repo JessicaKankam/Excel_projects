@@ -15,6 +15,11 @@ The raw dataset was cleaned and standardized in Excel, including:
 
 ---
 
+## Dashboard Demo
+- ![Glance through the Model](Demo.gif)
+
+---
+
 ## Dashboard Insights
 The dashboard analyzes bike purchases by:
 - Average income per purchase
