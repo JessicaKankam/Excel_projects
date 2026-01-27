@@ -14,7 +14,7 @@ An Excel-based financial analysis project building an integrated **Income Statem
 ---
 
 ## Model Demo
-- ![Model Glance](assets/demo.gif)
+- ![Glance through the Model](Demo.gif)
 
 ---
 
