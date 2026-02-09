@@ -9,7 +9,7 @@ The model incorporates historical financial data (2019A–2021A) and forward pro
 
 ## Model Structure
 
-- **Data Source** – Historical financial inputs (2019–2021) - Income Statement, Balance Sheet and Cashflow Statements.
+- **Data Source** – Historical financial inputs (2019–2021): Income Statement, Balance Sheet and Cashflow Statements.
 - **Free Cash Flow** – Key assumptions and Projection of unlevered free cash flows (2019A–2026E)
 - **Fixed Assets** – Capital expenditure and depreciation modeling
 - **Net Working Capital** – Working capital forecasting adjustments
