@@ -1,4 +1,4 @@
-# Costco DCF Valuation Model (Excel)
+# DCF Valuation Model (Excel)
 
 ## Overview
 A discounted cash flow (DCF) valuation model built in Excel to estimate the intrinsic value of Costco based on projected unlevered free cash flows and discounting assumptions.
