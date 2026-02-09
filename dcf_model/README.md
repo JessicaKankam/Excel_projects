@@ -31,3 +31,7 @@ Unlevered Free Cash Flow projections cover:
 ## File
 - [Download the Complete Excel Model](./DCF_model.xlsx)
 
+
+
+---
+The model was developed through guided financial modeling practice to apply core valuation concepts in a structured Excel framework.
