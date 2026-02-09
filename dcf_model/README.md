@@ -20,7 +20,7 @@ The model incorporates historical financial data (2019A–2021A) and forward pro
 
 ## Projection Period
 Unlevered Free Cash Flow projections cover:
-- 2019A-2020A   
+- 2019A-2021A   
 - 2022E-2026E
 ---
 
