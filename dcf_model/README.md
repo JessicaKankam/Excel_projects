@@ -24,6 +24,10 @@ Unlevered Free Cash Flow projections cover:
 - 2022E-2026E
 ---
 
+## Model Preview
+<img src="./dcf_preview.png" width="700">
+
+---
 ## File
-- [View Project](./DCF_model.xlsx)
+- [Download the Excel Model](./DCF_model.xlsx)
 
